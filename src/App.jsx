@@ -19,6 +19,7 @@ Hava durumu verileri şu anda JSX'e sabit olarak kodlanmıştır. Göreviniz, uy
     4. Kod düzenli ve kolay anlaşılır olmalıdır. 
 */
 
+// test
 export default function App() {
   const weatherData = [
     {
